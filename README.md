@@ -1,5 +1,4 @@
-### Hi there 👋
-
+\
 <!--
 **JWdori/JWdori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JaeWan's%20GitHub&fontSize=70&&fontColor=000000&animation=fadeIn    )
