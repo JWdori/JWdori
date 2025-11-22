@@ -16,7 +16,8 @@ ddd
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Jaewan's%20GitHub&fontSize=36&&fontColor=000000&animation=fadeIn    )
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJWdori&count_bg=%23FF6A0B&title_bg=%237C7C7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FJWdori&label=&icon=github&color=%23fd7e14&message=&style=flat&tz=UTC)
+
 
 ### 🛠 Languages and Tools
 
